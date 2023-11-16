@@ -29,3 +29,8 @@ class MainActivity : ComponentActivity() {
 fun Login(){
     
 }
+
+@Composable
+fun SignUp(){
+    
+}
